@@ -1,0 +1,9 @@
+Team: Housing development
+•	Title, Authors: yes
+•	(15%) Motivation: table of content included (nice), motivation is simple but to the point. Would be nice to add some stats.   
+•	(15%) Data: property tax records, police incidence reports, city survey (combined 3 sources of data (nice), this is a skill on its own). Data cleaning process (well documented). Distribution of valuation data is bimodal. EDA included maps (nice). Would be nice to add more information on the distribution of the features in your data. Also, a clearer identification of these features.
+•	(15%) Approach:  baseline = mean/median predictor. Improvement: linear model, random forest regressor. Summary of results slide included (nice). Results look really good.
+•	(30%) Experiments: yes
+•	(10%) Conclusions: included future work (nice): better data, better models, known biases
+•	(15%) Code submission: yes. Well commented. There is data in the Notebooks folder even if you have a Data folder. Could benefit from creating multiple notebooks: data preprocessing, modeling and analysis
+•	Contributions: yes
